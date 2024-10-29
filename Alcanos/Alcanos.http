@@ -1,0 +1,6 @@
+@Alcanos_HostAddress = http://localhost:5187
+
+GET {{Alcanos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\bin\Debug\net8.0\Modelos.deps.json
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\bin\Debug\net8.0\Modelos.dll
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\bin\Debug\net8.0\Modelos.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\obj\Debug\net8.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\obj\Debug\net8.0\Modelos.AssemblyInfoInputs.cache
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\obj\Debug\net8.0\Modelos.AssemblyInfo.cs
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\obj\Debug\net8.0\Modelos.csproj.CoreCompileInputs.cache
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\obj\Debug\net8.0\Modelos.dll
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\obj\Debug\net8.0\refint\Modelos.dll
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\obj\Debug\net8.0\Modelos.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Modelos\obj\Debug\net8.0\ref\Modelos.dll

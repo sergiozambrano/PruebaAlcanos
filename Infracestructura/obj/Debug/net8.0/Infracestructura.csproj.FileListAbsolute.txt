@@ -1,0 +1,12 @@
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\bin\Debug\net8.0\Infracestructura.deps.json
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\bin\Debug\net8.0\Infracestructura.dll
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\bin\Debug\net8.0\Infracestructura.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.csproj.AssemblyReference.cache
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.AssemblyInfoInputs.cache
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.AssemblyInfo.cs
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.csproj.CoreCompileInputs.cache
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.dll
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\refint\Infracestructura.dll
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\ref\Infracestructura.dll

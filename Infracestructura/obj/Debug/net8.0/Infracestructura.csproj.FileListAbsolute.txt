@@ -10,3 +10,4 @@ D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8
 D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\refint\Infracestructura.dll
 D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.pdb
 D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\ref\Infracestructura.dll
+D:\Users\Sergio Zambrano\Documents\Repos\Alcanos\Infracestructura\obj\Debug\net8.0\Infracestructura.sourcelink.json
